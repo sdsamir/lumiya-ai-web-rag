@@ -1,0 +1,19 @@
+transformers>=4.36.2
+diffusers>=0.25.0
+pillow>=9.3.0
+gradio
+streamlit>=1.29.0
+accelerate>=0.25.0
+pypdf
+peft>=0.6.0
+ctransformers[cuda]>=0.2.24
+ctransformers>=0.2.24
+spaces
+youtube-transcript-api
+sentence_transformers
+duckduckgo-search
+ddgs
+BeautifulSoup4
+googlesearch-python
+tavily-python
+#pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126

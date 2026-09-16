@@ -1,0 +1,18 @@
+# Ignore everything except source and project metadata
+*
+
+# Allow directories so Git can recurse
+!*/
+
+# Python source
+!**/*.py
+
+# Dependency lists
+!**/requirements*.txt
+
+# Repo docs (already in this project)
+!README.md
+!LICENSE
+
+# This file
+!.gitignore
